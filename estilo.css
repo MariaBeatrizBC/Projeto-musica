@@ -48,6 +48,10 @@ h2 {
     padding: 50px;
 }
 
+.section.imagem {
+    background-attachment: fixed;
+}
+
 .fundo {
     font: normal 2.5vw var(--fonteCoustard);
     padding: 100px 30px;
