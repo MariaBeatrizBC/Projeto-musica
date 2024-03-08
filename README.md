@@ -18,5 +18,7 @@
 <div align="center">
   <h2>Aplicação:</h2>
   <a href="https://mariabeatrizbc.github.io/Projeto-musica/" target="_blank">Clique aqui para visualização do site.</a>
+  <br>
+  <br>
 </div>
 <img height="200em" src="https://flossmagazine.com/wp-content/uploads/2018/04/ariana-grande-no-tears-left-to-cry-image-floss-magazine-3.jpg">
