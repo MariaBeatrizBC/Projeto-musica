@@ -27,7 +27,7 @@ body {
 
 header {
     background-color: var(--azulEscuro);
-    padding: 10px;
+    padding: 20px;
 }
 
 h1 {
@@ -48,14 +48,11 @@ h2 {
     padding: 50px;
 }
 
-.section.imagem {
-    background-attachment: fixed;
-}
-
 .fundo {
     font: normal 2.5vw var(--fonteCoustard);
     padding: 100px 30px;
     color: white;
+    background-attachment: fixed; /*Para aplicar o efeito parallax*/
 }
 
 .fundo > p {
@@ -98,6 +95,7 @@ footer > p {
 a {
     text-decoration: none;
     color: white;
+    font-style: italic;
 }
 
 a:hover {
